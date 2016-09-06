@@ -12,6 +12,7 @@
   "license": "Bootstrap",
   "ignore": [
     ".gitignore",
-    "README.md"
+    "README.md",
+    "bower.json"
   ]
 }
