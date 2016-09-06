@@ -1,0 +1,17 @@
+{
+  "name": "glyphicons-only-bootstrap",
+  "homepage": "https://github.com/ohpyupi/glyphicons-only-bootstrap",
+  "authors": [
+    "ohpyupi <ohpyupi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "Glyphicons"
+  ],
+  "license": "Bootstrap",
+  "ignore": [
+    ".gitignore",
+    "README.md"
+  ]
+}
