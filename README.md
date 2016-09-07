@@ -12,7 +12,7 @@ bower install glyphicons-only-bootstrap
 ## Implement to your HTML
 
 ```
-<link rel='stylesheet' href='bower_components/glyphicon-only-bootstrap/css/bootstrap.min.css' />
+<link rel='stylesheet' href='bower_components/glyphicons-only-bootstrap/css/bootstrap.min.css' />
 ```
 
 ## License
