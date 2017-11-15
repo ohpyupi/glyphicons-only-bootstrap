@@ -6,6 +6,10 @@ Bootstrap nicely offers a functionality for a user to customize their bootstrap 
 ## Installation
 
 ```
+// using npm
+npm install glyphicons-only-bootstrap
+
+// using bower
 bower install glyphicons-only-bootstrap
 ```
 
